@@ -12,4 +12,4 @@ After that you can just start the program by:
 ![usage of the program](https://imgur.com/bExi7qi.png)
 
 Resulting map can change as firstly given color changes.
-![colored map](https://imgur.com/RxiltD5.png)
+![colored map](https://imgur.com/XAUlsb8.png)
